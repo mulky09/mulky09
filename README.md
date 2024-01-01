@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mulky09
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me by github
 
